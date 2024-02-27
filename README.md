@@ -11,4 +11,4 @@ Tech Stack:
 - Python
 - HTML
 - CSS
-- Javascript
+- Java script
